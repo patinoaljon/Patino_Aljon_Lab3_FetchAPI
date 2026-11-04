@@ -1,0 +1,15 @@
+1.What are the main differences between XMLHttpRequest and Fetch API?
+The main difference is that XMLHttpRequest uses an older way of making requests, while Fetch API is newer and uses promises, making the code easier to read and understand. Fetch API is also commonly used with async and await, while XMLHttpRequest uses event handlers to handle responses.
+
+2.Why is the Fetch API considered more modern and readable?
+The Fetch API makes sending requests and receiving data easier, cleaner, and more readable than older JavaScript methods.
+
+3.What is the purpose of the .then() and .catch() methods in Fetch?
+.then() handles successful results, while .catch() handles errors.
+
+4.What happens when you send a POST request to the placeholder API?
+A POST request simulates adding new data and returns a response, but the data is not permanently stored.
+
+
+
+
